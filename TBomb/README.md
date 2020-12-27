@@ -150,10 +150,6 @@ The package `toilet` cannot be installed yet. But TBomb does still work.
 [X] Ping at: https://t.me/RieltarReborn
 
 
-## Donators:
-
-* **[@] 34D30Y (34db0y@protonmail.com)**
-* **[@] SC AMAN**
 
 ## TODO:
 
@@ -164,11 +160,5 @@ The package `toilet` cannot be installed yet. But TBomb does still work.
 - [ ] Split code into multiple files (after Deprecation)
 
 
-## Contact me
 
-Feel free to open an issue  
-
-
-For Queries: [Telegram Group](https://t.me/TBombChat)  
-[Check Out My YouTube Channel](https://www.youtube.com/c/GyanaTech)
 
